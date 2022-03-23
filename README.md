@@ -19,3 +19,6 @@ CCH4 -->    edge.audio.3qsdn.com/senderkw-mp3
 
 สามารถเพิ่มสถานีได้ แต่ต้องเป็น Streaming MP3 หรือ สร้างสถานีของตัวเองโดยไปตั้งสถานีที่
 https://zeno.fm/
+
+Coding: esp32netRadio-github.ino
+Libraries: WiFiEspAT.zip, ESP32-audioI2S-master.zip
